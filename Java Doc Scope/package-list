@@ -1,0 +1,13 @@
+info.com.NyTimes
+info.com.NyTimes.android
+info.com.NyTimes.android.di.component
+info.com.NyTimes.android.di.module
+info.com.NyTimes.android.mvp.core.base
+info.com.NyTimes.android.mvp.main.detail
+info.com.NyTimes.android.mvp.main.home
+info.com.NyTimes.android.mvp.main.home.model
+info.com.NyTimes.android.mvp.main.home.mvp
+info.com.NyTimes.data.source
+info.com.NyTimes.data.source.remote
+info.com.NyTimes.domain
+info.com.NyTimes.domain.IView
