@@ -22,10 +22,8 @@
 * implementation "com.google.dagger:dagger-android:${daggerVersion}"
 * implementation "com.google.dagger:dagger-android-support:${daggerVersion}"
 * annotationProcessor "com.google.dagger:dagger-compiler:${daggerVersion}"
-4. cloudinary
-* implementation "com.cloudinary:cloudinary-android:1.25.0"
 
-5. butterknife
+4. butterknife
 * implementation 'com.jakewharton:butterknife:8.8.1'
 * annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
